@@ -1,8 +1,8 @@
 #ChatDB
 
 Avtorja: 
-Nik Dizdarevič 63130033
-Žan Pogačnik 63140324
++ Nik Dizdarevič 63130033
++ Žan Pogačnik 63140324
 
 Projekt predstavlja aplikacijo, ustvarjeno v programskem jeziku C#, ki omogoča uporabnikom pogovarjanje v spletni klepetalnici. Aplikacija uporablja podatkovno bazo za hranjenje sporočil in uporabnikov in omogoča tudi registracijo novih uporabnikov. 
 
@@ -22,5 +22,5 @@ Aplikacijo bi lahko izboljšali na več načinov, kot na primer, takoj ko se upo
 Večino funkcionalnosti v aplikaciji je implementiral Nik Dizdarevič, poročilo pa sem spisal jaz.
 
 Seznam uporabnikov že v podatkovni bazi:
-*username: [] geslo:
-*username: "user"	geslo: AB12!lolekbolek
++ username: [] geslo:
++ username: "user"	geslo: AB12!lolekbolek
